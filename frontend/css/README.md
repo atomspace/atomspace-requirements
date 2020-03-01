@@ -1,0 +1,13 @@
+CSS
+   -  Selectors, pseudo-classes, basic combinators (`.`, `#`, `[attr]`)
+   -  Float, static, relative, absolute
+   -  normalize or reset
+   -  Styling elements
+   -  Additional:
+      -  flexbox, z-index, grid
+      -  size calculation, margin collapsing
+      -  box-sizing
+      -  Preprocessor, SCSS, preprocessor features (variables, inheritance, color manipulation)
+      -  BEM
+      -  Animations, transitions, transforms, shadows, gradients etc
+      -  Media queries, printing, viewport meta, desktop/mobile differences

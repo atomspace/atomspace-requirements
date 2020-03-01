@@ -1,0 +1,12 @@
+Javascript
+   - Primitives
+   - Syntax, type system (object, null/undefined)
+   - Operators (result of &&/||, delete, ==/===)
+   - Iterating over arrays/objects
+   - let, const, arrow functions, class, spread, destructing
+   - Prototype, context (this), own properties
+   - Functions, call/apply/bind, arguments
+   - Timers, callbacks
+   - Additional:
+     - Recursion, higher-order functions, map/reduce, mutable/immutable, pure function
+     - Promises, async error handling, async/await
