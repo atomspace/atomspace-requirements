@@ -1,2 +1,2 @@
 VCS
-    - Version control systems (Git, Github, Gitlab, Bitbucket), 
+- Version control systems (Git, Github, Gitlab, Bitbucket), 
