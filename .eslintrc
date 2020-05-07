@@ -16,6 +16,11 @@
     "prettier",
     "standard"
   ],
+  "settings": {
+    "react": {
+      "version": "latest"
+    }
+  },
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
